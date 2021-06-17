@@ -1,1 +1,11 @@
-readme
+Idea del proyecto:
+
+1- Leer del directorio que se le invoque, el arbol que tenga dentro del mismo
+2- Detectar con una función hash aquellos que sean copias.
+
+
+El codigo que recogre Program.cs , lo primero que hace es encontrar las unidades de almacenamiento en el Sistema informatico en el que se ejecute. Además da una serie de datos interesantes de gestión de las mismmas.
+
+Una vez devides el Label en el que quieres buscar archivos repetidos, el siguiente paso es concatenar la cadena, formando un Path exacto donde buscar archivos duplicados. (Esto es lo que falta por implementar)
+
+Por ultimo se ejecutaria la funcion Hash, encontrando duplicados.

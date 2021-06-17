@@ -7,6 +7,11 @@
 	"settings": {
 		"projectManager.git.baseFolders": [
 			"C:\\Users\\ToniGe\\Documents\\Programacion\\AppOrden"
-		]
+		],
+		"markdown.styles": [
+			"C:\\\\Users\\\\ToniGe\\\\Documents\\\\Programacion\\\\AppOrden"
+		],
+		"omnisharp.enableMsBuildLoadProjectsOnDemand": true,
+		"omnisharp.disableMSBuildDiagnosticWarning": true
 	}
 }
